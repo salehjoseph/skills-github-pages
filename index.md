@@ -3,7 +3,7 @@
 ![Banner Image](https://via.placeholder.com/1500x500)
 
 ## About Me
-Hello! I'm [Your Name], a passionate [your profession/hobby]. This blog is where I share my thoughts, experiences, and insights on topics that fascinate me.
+Hello! I'm Sebaana Yusuf Salim, a passionate about coding and software engineering. This blog is where I share my thoughts, experiences, and insights on topics that fascinate me.
 
 ## Latest Posts
 - [Post Title 1](#)
